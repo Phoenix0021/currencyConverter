@@ -1,8 +1,5 @@
-# React + Vite
+## Learning Custom Hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In the course of learning React, a small project was developed that involved the creation of custom hooks. 
+This experience facilitated a deeper understanding of encapsulating reusable logic and managing state more effectively within functional components. 
+The implementation of these custom hooks enhanced the functionality of the project and contributed to cleaner, more maintainable code.
